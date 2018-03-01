@@ -5,10 +5,15 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Hello Maven</title>
+        <style type="text/css">
+        	p{
+        		background-color: red;
+        	}
+        </style>
     </head>
 
     <body>
-        <p>大家好！</p>
+        <p align="content">大家好！</p>
         <a href="user?action=login_input">去登录</a>
     </body>
 </html>

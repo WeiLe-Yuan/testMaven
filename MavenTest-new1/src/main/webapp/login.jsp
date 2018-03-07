@@ -7,7 +7,7 @@
 <title>登陆界面</title>
 <style type="text/css">
 	form{
-		background-color: red
+		background-color: blue
 	}
 </style>
 </head>

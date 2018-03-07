@@ -7,7 +7,7 @@
         <title>Hello Maven</title>
         <style type="text/css">
         	p{
-        		background-color: red
+        		background-color: green
         	}
         </style>
     </head>
